@@ -1,0 +1,2 @@
+print("Something interesting")
+
